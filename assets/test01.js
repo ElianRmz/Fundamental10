@@ -6,3 +6,4 @@ numero2= parseInt (numero2)
 alert = (numero1+numero2)
 console.log(alert)
 document.write (alert)
+
