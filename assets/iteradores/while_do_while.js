@@ -18,4 +18,4 @@ do {
 let num = prompt ('hechese un numero jto',0)
 let suma = 0
 do {
-    DocumentTimeline.write();
+    DocumentTimeline.write();}
