@@ -16,4 +16,3 @@ mascota_1.alimentar();
 document.write('</br>');
 let mascota_2 = new Perro('Kira ');
 mascota_2.hablar();//Kira ladra
-
